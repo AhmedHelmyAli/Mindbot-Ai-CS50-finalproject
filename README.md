@@ -41,7 +41,7 @@ After running the application, you will be prompted to choose a command from the
 **Images**
 ### Example of Text OCR
 Before:
-![Before OCR](images/image1.jpg)
+![Before OCR](image1.jpg)
 
 After:
 **Knowledge
@@ -54,10 +54,10 @@ Anthony Douglas Williams
 
 ### Example of Background Removal
 Before:
-![Before Background Removal](images/car-real-img.jpg)
+![Before Background Removal](car-real-img.jpg)
 
 After:
-![After Background Removal](images/car-removebg-img.jpg)
+![After Background Removal](car-removebg-img.jpg)
 
 
 ###License
