@@ -1,0 +1,7 @@
+openai~=1.50.0
+pyttsx3~=2.98
+pytesseract~=0.3.13
+requests~=2.32.3
+qrcode~=7.4.2
+translate~=3.6.1
+pillow~=10.4.0
